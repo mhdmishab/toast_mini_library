@@ -16,7 +16,7 @@ This repository highlights a sophisticated toast mini library as per the instruc
 
 Open a terminal and run the following command to clone this project:
 ```bash
-git clone https://github.com/mhdmishab/rate_your_app.git
+git clone https://github.com/mhdmishab/toast_mini_library.git
  
 ```
 #### Step 2: Navigate to toast_mini_library Directory In Terminal
